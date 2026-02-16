@@ -1,5 +1,6 @@
 🌫️ Islamabad AQI Forecasting Dashboard – Next 3 Days
 =====================================================
+![AQI Dashboard](AQI%20Dashboard.png)
 
 Predict the **Air Quality Index (AQI)** for **Islamabad** over the next 3 days using a **serverless machine learning pipeline**. This project includes automated data collection, feature engineering, model training, and real-time predictions displayed through an interactive dashboard.
 
